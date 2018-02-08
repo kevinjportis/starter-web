@@ -1,2 +1,3 @@
 unwanted.sql
 access.log
+*.orig
